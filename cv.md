@@ -24,3 +24,15 @@ Active life position, communicable and energetic person. Responsible, stress-res
 - OS: Windows, Android
 
   - Code example: [rsschool-cv](https://github.com/Stani5lav/rsschool-cv)
+
+### EXPERIENCE
+* 2008 - 2022, Senior locomotive Driver in [Ukrainian Railways](https://www.uz.gov.ua/) company - clear and timely completion of tasks, team management, writing reports
+
+### EDUCATION
+* 2011 - Master's degree, Railways and railway engineering. [National Technical University “Kharkiv Polytechnic Institute”](https://www.kpi.kharkov.ua/ukr/)
+
+  ### LANGUAGE LEVEL
+  * English (Upper Intermediate)
+  * Ukraine (Native)
+
+  
